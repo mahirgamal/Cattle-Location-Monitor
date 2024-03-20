@@ -1,0 +1,5252 @@
+[
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "71caaf83-bff1-4d4e-bd75-652a90a276b2",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05465361966406",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34596254905873",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34596254905873,
+                    -35.05465361966406
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:47:24Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "7e744178-d377-494c-bc12-52745b7e15d3",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.054618497489116",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.3460268144323",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.3460268144323,
+                    -35.054618497489116
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:48:38Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "b5bdd327-7453-4879-85bc-be0fd1549778",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05463042726431",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.3458917494173",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.3458917494173,
+                    -35.05463042726431
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:31:36Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "22c6c553-c55c-4551-8d0c-5f298bc7442a",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05462660231187",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34595485218705",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34595485218705,
+                    -35.05462660231187
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:44:37Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "f5768c9c-868c-4bbd-8140-f1687162ee34",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05462267614913",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34591107235113",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34591107235113,
+                    -35.05462267614913
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:48:22Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "6fbeb46d-3766-459c-9113-1f02d2ed7867",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05463434752203",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.3459426789075",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.3459426789075,
+                    -35.05463434752203
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:58:01Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "c57f6ac8-22bf-471f-a8ed-8bf0c0a3686b",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05464403649366",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.3460383677225",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.3460383677225,
+                    -35.05464403649366
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:34:51Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "8d233ee5-9837-4730-858c-ac189748bb7f",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05464834793655",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34593767881478",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34593767881478,
+                    -35.05464834793655
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:36:33Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "1493a338-a8b8-44f7-99d3-5c58624533c4",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.054634598214754",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34596910729425",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34596910729425,
+                    -35.054634598214754
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:51:35Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "3c3b04ab-5ede-490e-b4ed-3542e9884062",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.0546392302569",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34605931753242",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34605931753242,
+                    -35.0546392302569
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:41:08Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "fd54d9b0-95fd-4465-a18e-7b7ace5af9e0",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05463969347382",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.3459037192388",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.3459037192388,
+                    -35.05463969347382
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:55:34Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "ab8ed4fa-5ff9-4518-99c7-cc9373d53a2d",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05465220235614",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.3459287398344",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.3459287398344,
+                    -35.05465220235614
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:46:15Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "be182ae1-e997-4d81-ad7b-628482e34992",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05465685528126",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.3460048275845",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.3460048275845,
+                    -35.05465685528126
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:57:00Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "4a21398f-ee20-487d-b69e-4c35a1b30706",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05463445770814",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34592415069548",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34592415069548,
+                    -35.05463445770814
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:31:33Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "e759ab38-a98e-45cc-ae9c-b3969980ebad",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05465707253842",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.3459857407469",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.3459857407469,
+                    -35.05465707253842
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:34:54Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "dd13b5f1-860a-439a-a2f5-cc2a3f9ddca7",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.054613550801946",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.3459353484119",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.3459353484119,
+                    -35.054613550801946
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:56:09Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "b15f692b-29b0-4e55-bbd8-b65e0542a32f",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.054646459860365",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34600578285892",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34600578285892,
+                    -35.054646459860365
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:54:06Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "8328a576-a956-4af5-9ddf-db36a63dd55c",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05462854027507",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34599601410872",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34599601410872,
+                    -35.05462854027507
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:33:06Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "529c9c0c-3e6c-469d-8263-3173d68c4a2f",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05464290232083",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.3459752313447",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.3459752313447,
+                    -35.05464290232083
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:49:50Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "3812f7d9-8fb8-47eb-893a-0bc2019ec55a",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05465772782372",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34605703012113",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34605703012113,
+                    -35.05465772782372
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:30:39Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "c0eabd4f-682d-4d63-84ae-bb8220eafefa",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05465867807362",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.346027430388",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.346027430388,
+                    -35.05465867807362
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:57:28Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "8492887c-5408-4e86-9a84-a6034c66142f",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05465923223457",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.3460315792621",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.3460315792621,
+                    -35.05465923223457
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:49:31Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "60504c16-4650-43f2-abb6-c2c7895d3207",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05464224718956",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.346004338568",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.346004338568,
+                    -35.05464224718956
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:36:26Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "4cf1bcbf-4a8e-4669-8420-3c46ca11fb06",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05462580202575",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34592834986813",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34592834986813,
+                    -35.05462580202575
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:48:52Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "c6c22400-45b7-4d3f-9c0b-98d690174359",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.0546264399698",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.345971053552",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.345971053552,
+                    -35.0546264399698
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:58:00Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "b0f9247f-1aa2-438c-96b8-782deb3cfa6c",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05462449263824",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34604297591372",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34604297591372,
+                    -35.05462449263824
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:48:09Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "ee9e9da7-6a38-47de-8177-69fb0f2a07d5",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05464402475712",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34599694721652",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34599694721652,
+                    -35.05464402475712
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:30:05Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "5ad15454-33d2-4d6c-a8c9-9d0e65025e20",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.054651032290266",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34594079063103",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34594079063103,
+                    -35.054651032290266
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:48:47Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "7206b3dc-a9e8-4f92-b0e4-057540d4cf08",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.054653028679226",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34598655337192",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34598655337192,
+                    -35.054653028679226
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:53:16Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "6b0e5eaf-1e61-4db9-b3ec-a7dbcde6d5cf",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05464909604995",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34590222594363",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34590222594363,
+                    -35.05464909604995
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:36:59Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "db9df9b3-3c78-4c2c-92ee-6fa332b579d2",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05463746998172",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34598516021913",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34598516021913,
+                    -35.05463746998172
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:50:51Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "04d05239-d261-42f6-a72f-928fdf7bf085",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.054616088767744",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34592344204026",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34592344204026,
+                    -35.054616088767744
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:53:33Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "6413103f-0f9b-433e-bace-bd2e9c3471f0",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05465113945265",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34600714322283",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34600714322283,
+                    -35.05465113945265
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:32:19Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "3e220679-c1be-4dc3-b59e-fd547c3924d3",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05461045873321",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.3460497335961",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.3460497335961,
+                    -35.05461045873321
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:35:19Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "5686a53c-d883-4e2d-ba4f-f75d7369eed9",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05464794863766",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34594404623144",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34594404623144,
+                    -35.05464794863766
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:34:20Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "0dc95402-0c5b-4ae5-b7b5-99afbb30f9c4",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.054634721751746",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34601878195758",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34601878195758,
+                    -35.054634721751746
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:30:22Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "220a1d95-1755-4d89-a7a1-b493431fad6b",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05462071531443",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34601016925254",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34601016925254,
+                    -35.05462071531443
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:56:53Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "b42d900a-749e-4ee8-b5f7-5353381045b1",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05464923979886",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34597618797764",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34597618797764,
+                    -35.05464923979886
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:34:11Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "ed6c3358-2310-4b2f-84d0-1ea8150f4552",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.054659474314",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34603862751297",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34603862751297,
+                    -35.054659474314
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:44:44Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "8eeab6a1-32eb-4a3e-8a21-664311414346",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05463554171202",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34605218694065",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34605218694065,
+                    -35.05463554171202
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:59:14Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "d1de7fca-72a8-447d-bf47-8356f37ed20b",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05463244081547",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34590851757966",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34590851757966,
+                    -35.05463244081547
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:32:55Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "b099a497-4eb6-474b-ae0d-556447ddfc7e",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05461885639746",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34604197597787",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34604197597787,
+                    -35.05461885639746
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:40:26Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "6b9cd0de-1cab-4999-a501-e68c4be7914f",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05462222089427",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34588546573846",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34588546573846,
+                    -35.05462222089427
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:57:15Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "08d522c4-8ce3-4f44-9181-84cbdaa90c59",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05462961287058",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34590407982404",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34590407982404,
+                    -35.05462961287058
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:31:26Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "cead5ca2-55ea-48b7-aa2c-34d50e563771",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.054618742046266",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34588928679042",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34588928679042,
+                    -35.054618742046266
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:54:47Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "1bd7482a-a32e-472e-ad44-f7b5fba978f1",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.0546382305111",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34593869549286",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34593869549286,
+                    -35.0546382305111
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:31:53Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "c9f25834-1320-42fe-bb20-7c0be8b67701",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05462154954403",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34594139902404",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34594139902404,
+                    -35.05462154954403
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:56:50Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "87073102-ea89-4402-86f2-eb9e219f72dd",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.054639667460805",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.3460437813057",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.3460437813057,
+                    -35.054639667460805
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:38:16Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "d04c4a07-8a0a-4e3d-a416-16b2c296711b",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05461309386326",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34596612628573",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34596612628573,
+                    -35.05461309386326
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:58:37Z"
+    },
+    {
+        "source": {
+            "id": "123",
+            "ip_address": "128.0.0.0",
+            "manufacturer": {
+                "id": "1234"
+            }
+        },
+        "owner": {
+            "id": "454877abc",
+            "name": "CSU",
+            "email": "abcfarm@abc.edu.au",
+            "givenName": "ABC",
+            "familyName": "XYZ"
+        },
+        "message": {
+            "eventName": "Location",
+            "item": {
+                "itemType": "Animal",
+                "animal": {
+                    "identifier": {
+                        "id": "b153959d-d178-4ad3-90e4-65b05197d148",
+                        "scheme": "123"
+                    },
+                    "specie": "Cattle",
+                    "gender": "Male"
+                }
+            },
+            "session": {
+                "sessionID": "4545",
+                "totalInSession": 1
+            },
+            "event": {
+                "id": "Ax123",
+                "version": "1.1.0 beta",
+                "manufacturer": {
+                    "id": "Ceres tag",
+                    "deviceType": "ear tag",
+                    "deviceName": "ct (cattle tag)"
+                },
+                "location": [
+                    {
+                        "id": "59.102.101.113",
+                        "scheme": "request"
+                    },
+                    {
+                        "id": "Sydney",
+                        "scheme": "city"
+                    },
+                    {
+                        "id": "New South Wales",
+                        "scheme": "region"
+                    },
+                    {
+                        "id": "NSW",
+                        "scheme": "regionCode"
+                    },
+                    {
+                        "id": "AU",
+                        "scheme": "countryCode"
+                    },
+                    {
+                        "id": "Australia",
+                        "scheme": "countryName"
+                    },
+                    {
+                        "id": "20",
+                        "scheme": "locationAccuracyRadius"
+                    },
+                    {
+                        "id": "Australia/Sydney",
+                        "scheme": "timezone"
+                    },
+                    {
+                        "id": "AUD",
+                        "scheme": "currencyCode"
+                    },
+                    {
+                        "id": "-35.05462096022024",
+                        "scheme": "latitude"
+                    },
+                    {
+                        "id": "147.34603530658148",
+                        "scheme": "longitude"
+                    },
+                    {
+                        "id": "2200",
+                        "scheme": "zipcode"
+                    },
+                    {
+                        "id": "Bankstown",
+                        "scheme": "subrub"
+                    }
+                ]
+            },
+            "GeoLocation": {
+                "type": "Point",
+                "coordinates": [
+                    147.34603530658148,
+                    -35.05462096022024
+                ]
+            }
+        },
+        "eventDateTime": "2024-03-20T07:56:25Z"
+    }
+]
