@@ -23,7 +23,7 @@ This project visualizes the locations of cattle on the a farm using Folium and G
 
 3. Add your Google Maps API key:
     Replace `'YOUR_GOOGLE_MAPS_API_KEY'` in the script with your actual API key.
-    Obtain a Google Maps API Key: Follow the instructions on  [https://developers.google.com/maps/get-started] to create an API key
+    Obtain a Google Maps API Key: Follow the instructions on  https://developers.google.com/maps/get-started to create an API key
 
 ## Usage
 
