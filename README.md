@@ -1,6 +1,17 @@
 # Cattle Location Monitor
 
-This project visualizes the locations of cattle on the a farm using Folium and Google Maps API. The map includes markers for the farm boundary, water locations, and individual cattle identified by RFID.
+This tool visualises the locations of cattle on the a farm using Folium and Google Maps API. The map includes markers for the farm boundary, water locations, and individual cattle identified by RFID. This tool is part of a real-life demonstration for data sharing through the Livestock Event Information Sharing Architecture (LEISA). It utilises the Livestock Event Information (LEI) schema for standardised data representation and LEI2JSON for efficient data conversion.
+
+## Integration with LEISA
+
+Cattle Location Monitor demonstrates how data can be shared and visualised using the LEISA architecture. It adheres to the LEI schema standards to ensure consistency and interoperability in data representation. The tool also employs the [LEI2JSON](https://github.com/mahirgamal/LEI2JSON) converter for seamless JSON data handling, making it easier to work with standardised livestock event information.
+
+## Related Projects
+
+- [LEI Schema](https://github.com/mahirgamal/LEI-schema): Defines the standardized schema for livestock event information.
+- [LEISA](https://github.com/mahirgamal/LEISA): The architecture framework for sharing livestock event information.
+- [LEI2JSON](https://github.com/mahirgamal/LEI2JSON): A tool to convert LEI data into JSON format for easy processing.
+
 
 ## Features
 
@@ -35,6 +46,13 @@ This project visualizes the locations of cattle on the a farm using Folium and G
     ```
 
 3. Open the generated `Farm.html` file in a web browser to view the map.
+
+## Troubleshooting
+
+If you encounter any issues, consider the following steps:
+- Ensure that your JSON file is correctly formatted and matches the expected structure.
+- Verify that all required dependencies are installed.
+- Check for any error messages in the console and address them accordingly.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
